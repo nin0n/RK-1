@@ -10,8 +10,8 @@
 ```
 2. Краткое описание проекта (одной фразой). (Это скорее для вас может быть полезно, потому что некоторые из проектов интересны сами по себе - коснетесь в современных разработок)
 ```
-    This package includes a C++ class with several tracking methods based on the Kernelized Correlation Filter (KCF).
-It also includes an executable to interface with the VOT benchmark.
+    Этот пакет включает в себя класс C++ с несколькими методами отслеживания, основанными на фильтре корреляции в ядре (KCF).
+Он также включает исполняемый файл для взаимодействия с тестом VOT benchmark.
 ```
 3. Количество файлов
 ```bash
